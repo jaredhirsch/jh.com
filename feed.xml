@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jaredhirsch.com, where the magic happens</title>
-    <description>words and music // jared hirsch // ¯\_(ツ)_/¯</description>
+    <description>words and music // jared hirsch // ¯\_(ツ)_/¯
+</description>
     <link>https://jaredhirsch.com/</link>
     <atom:link href="https://jaredhirsch.com/feed.xml" rel="self" type="application/rss+xml"/>
     <pubDate>Mon, 25 Apr 2022 16:35:44 +0000</pubDate>
