@@ -2,10 +2,13 @@ html {
   font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE Regular", "ChalkboardSE-Regular", sans-serif;
   background: aqua;
 }
-p {
+p,li {
   background: white;
   font-size: 20px;
 }
+li {
+  list-style: square;
+} 
 a {
   color: aqua;
   background: black;
