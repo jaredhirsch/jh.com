@@ -2,5 +2,6 @@
 
 jaredhirsch dot com landing page
 
+🚧 site under construction indefinitely 🚧
 
-currently: hosted on github, DNS via DO
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
