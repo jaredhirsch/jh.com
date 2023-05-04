@@ -1,5 +1,5 @@
 html {
-  font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE Regular", "ChalkboardSE-Regular", sans-serif;
   background: aqua;
 }
 p {
@@ -15,7 +15,8 @@ h1 {
   background: yellow;
 }
 code {
-  font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+  font-family: "Comic Sans MS", "Comic Sans", "Chalkboard SE Regular", "ChalkboardSE-Regular", sans-serif;
   color: yellow;
   background: black;
+  border: 1px solid yellow;
 }
